@@ -1,0 +1,20 @@
+{
+  "name": "float_calculate",
+  "version": "1.0.0",
+  "description": "'基于js精度丢失问题写的四则运算/calculation accuracy'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculate"
+  ],
+  "author": "https://github.com/yuhaiyang1",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "mochawesome": "^3.0.1",
+    "superagent": "^3.8.2"
+  }
+}
