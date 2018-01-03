@@ -7,6 +7,6 @@
 * `npm i fourth_calculate --save `
 * `import Calculate from fourth_calculat`
 * `调用 Calculate.toFixed、Calculate.Add() 等等`
-* `谢谢支持请给start`  
+* `谢谢支持请给star`  
 
 @author :yhy
